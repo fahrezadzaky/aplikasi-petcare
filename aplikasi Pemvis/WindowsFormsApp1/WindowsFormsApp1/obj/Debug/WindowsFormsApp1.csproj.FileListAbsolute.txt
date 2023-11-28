@@ -1,0 +1,10 @@
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\1. KULIAH\SEASON 4\PEMROGRAMAN VISUAL + PRAK\aplikasi Pemvis\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
